@@ -1,7 +1,7 @@
 # django-test
 
 
-## Instructions pour le test technique plus bas :
+## Instructions du test technique (non rempli dans sa totalité) :
 
 
 
